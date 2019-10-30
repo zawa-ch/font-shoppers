@@ -25,11 +25,11 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="1.979899"
-     inkscape:cx="66.377122"
-     inkscape:cy="48.555594"
+     inkscape:zoom="5.6"
+     inkscape:cx="41.731771"
+     inkscape:cy="36.102472"
      inkscape:document-units="mm"
-     inkscape:current-layer="layer4"
+     inkscape:current-layer="g853"
      showgrid="false"
      fit-margin-top="0"
      fit-margin-left="0"
@@ -115,13 +115,13 @@
          inkscape:connector-curvature="0"
          id="path826"
          d="m 69.022062,153.74811 0.314167,-0.1883 0.48324,-0.0432 c 0,0 1.770947,0.49082 2.643341,0.77818 0.917992,0.30239 2.723648,0.99451 2.723648,0.99451 0,0 0.236586,0.14243 0.302703,0.25713 0.07879,0.13668 0.08436,0.4657 0.08436,0.4657 l -0.721151,2.11017 c 0,0 -0.208341,0.14937 -0.330034,0.17766 -0.146535,0.0341 -0.451017,-0.0167 -0.451017,-0.0167 0,0 -1.753895,-0.83059 -2.655992,-1.18601 -0.921779,-0.36317 -2.81122,-0.96498 -2.81122,-0.96498 0,0 -0.287196,-0.18932 -0.367498,-0.33409 -0.06039,-0.10888 -0.06682,-0.36749 -0.06682,-0.36749 z"
-         style="fill:none;stroke:#000000;stroke-width:0.03527778;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+         style="fill:#000000;stroke:none;stroke-width:0.03527778;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;fill-opacity:1" />
       <path
          sodipodi:nodetypes="csascaccacsascaccacc"
          inkscape:connector-curvature="0"
          id="path828"
          d="m 68.553994,168.05143 c 0,0 2.393163,-0.22908 3.486602,-0.46332 2.57686,-0.55204 3.864231,-1.14821 5.361663,-2.41256 2.080031,-1.75625 2.467696,-2.29634 4.552037,-6.78068 0.34013,-0.73178 0.421109,-1.11488 0.421109,-1.11488 0,0 0.149003,-0.3187 0.292572,-0.40091 0.131463,-0.0753 0.452205,-0.0452 0.452205,-0.0452 l 2.057151,0.98235 c 0,0 0.273746,0.1957 0.318571,0.3459 0.0435,0.14575 -0.07462,0.45017 -0.07462,0.45017 0,0 -0.245589,1.06919 -2.017172,4.28527 -1.56153,2.83474 -2.643903,3.92356 -4.494657,5.32868 -1.521147,1.15488 -3.446958,1.79926 -5.211263,2.38146 -1.631331,0.53832 -4.687985,0.99854 -4.687985,0.99854 0,0 -0.417525,0.11131 -0.585839,0.0122 -0.118138,-0.0695 -0.191998,-0.36372 -0.191998,-0.36372 l -0.422846,-2.62585 c 0,0 0.08154,-0.22965 0.167042,-0.31012 0.154446,-0.14537 0.577427,-0.26729 0.577427,-0.26729 z"
-         style="fill:none;stroke:#000000;stroke-width:0.03527778;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+         style="fill:#000000;stroke:none;stroke-width:0.03527778;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;fill-opacity:1" />
     </g>
   </g>
 </svg>
