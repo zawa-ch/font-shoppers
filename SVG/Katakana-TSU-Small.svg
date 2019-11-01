@@ -10,8 +10,8 @@
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    width="17.340975mm"
-   height="19.593199mm"
-   viewBox="0 0 17.340974 19.593198"
+   height="24.641315mm"
+   viewBox="0 0 17.340974 24.641315"
    version="1.1"
    id="svg8"
    inkscape:version="0.92.4 (5da689c313, 2019-01-14)"
@@ -25,9 +25,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="7.919596"
-     inkscape:cx="26.817319"
-     inkscape:cy="31.106397"
+     inkscape:zoom="4.7589299"
+     inkscape:cx="-8.317993"
+     inkscape:cy="47.093996"
      inkscape:document-units="mm"
      inkscape:current-layer="layer4"
      showgrid="false"
@@ -35,51 +35,76 @@
      fit-margin-left="0"
      fit-margin-right="0"
      fit-margin-bottom="0"
-     inkscape:snap-global="true"
+     inkscape:snap-global="false"
      showguides="true"
      inkscape:guide-bbox="true"
      inkscape:snap-midpoints="false"
      inkscape:snap-intersection-paths="false"
      inkscape:object-paths="true"
      inkscape:window-width="1920"
-     inkscape:window-height="1031"
+     inkscape:window-height="1027"
      inkscape:window-x="0"
      inkscape:window-y="24"
      inkscape:window-maximized="1">
     <sodipodi:guide
-       position="-15.483993,0.017637604"
+       position="-15.483993,5.065754"
        orientation="1,0"
        id="guide855"
        inkscape:locked="false" />
     <sodipodi:guide
-       position="0.017638677,0.017637604"
+       position="0.017638677,5.065754"
        orientation="1,0"
        id="guide857"
        inkscape:locked="false" />
     <sodipodi:guide
-       position="17.323334,0.017638604"
+       position="17.323334,5.065755"
        orientation="1,0"
        id="guide859"
        inkscape:locked="false" />
     <sodipodi:guide
-       position="34.361774,0.017637604"
+       position="34.361774,5.065754"
        orientation="1,0"
        id="guide861"
        inkscape:locked="false" />
     <sodipodi:guide
-       position="54.540614,0.017638604"
+       position="54.540613,5.065755"
        orientation="1,0"
        id="guide863"
        inkscape:locked="false" />
     <sodipodi:guide
-       position="72.247214,0.017638604"
+       position="72.247213,5.065755"
        orientation="1,0"
        id="guide865"
        inkscape:locked="false" />
     <sodipodi:guide
-       position="-34.72404,0.017638604"
+       position="-34.72404,5.065755"
        orientation="1,0"
        id="guide871"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="-79.296894,5.065755"
+       orientation="1,0"
+       id="guide844"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="-79.296895,0.01764305"
+       orientation="0,1"
+       id="guide846"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="-41.499277,5.065755"
+       orientation="1,0"
+       id="guide848"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="-79.296895,24.623674"
+       orientation="0,1"
+       id="guide850"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="-79.296894,5.065755"
+       orientation="0,1"
+       id="guide852"
        inkscape:locked="false" />
   </sodipodi:namedview>
   <metadata
@@ -90,7 +115,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -98,17 +123,18 @@
      inkscape:groupmode="layer"
      id="layer4"
      inkscape:label="ッ"
+     style="display:inline"
      transform="translate(-87.04541,-20.001709)">
     <rect
        style="opacity:0.8;fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.03527778;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:normal"
        id="rect911"
        width="17.305696"
-       height="19.55792"
+       height="24.606037"
        x="87.063049"
        y="20.019348" />
     <g
        transform="translate(-14.598957,-132.19028)"
-       style="display:inline;stroke:none;fill:#000000;fill-opacity:1"
+       style="display:inline;fill:#000000;fill-opacity:1;stroke:none"
        id="g896">
       <path
          sodipodi:nodetypes="cacaaccaacacaaccaacc"
