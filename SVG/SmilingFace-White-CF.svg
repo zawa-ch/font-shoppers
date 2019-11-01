@@ -15,7 +15,7 @@
    version="1.1"
    id="svg8"
    inkscape:version="0.92.4 (5da689c313, 2019-01-14)"
-   sodipodi:docname="SmilingFace-White.svg">
+   sodipodi:docname="SmilingFace-White-CF.svg">
   <defs
      id="defs2" />
   <sodipodi:namedview
@@ -26,7 +26,7 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="4"
-     inkscape:cx="76.440121"
+     inkscape:cx="29.315121"
      inkscape:cy="52.638683"
      inkscape:document-units="mm"
      inkscape:current-layer="layer4"
@@ -115,14 +115,14 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
   <g
      inkscape:groupmode="layer"
      id="layer4"
-     inkscape:label="レイヤー 4"
+     inkscape:label="☺"
      style="display:inline"
      transform="translate(-7.7308724,-20.001709)">
     <rect
@@ -132,13 +132,6 @@
        height="24.606035"
        x="7.7485113"
        y="20.019348" />
-  </g>
-  <g
-     inkscape:groupmode="layer"
-     id="layer1"
-     inkscape:label="レイヤー 5"
-     style="display:inline"
-     transform="translate(-7.7308724,-20.001709)">
     <path
        id="path884"
        style="display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.13333334;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
