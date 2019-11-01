@@ -4,7 +4,7 @@ FullName: shoppers
 FamilyName: shoppers
 Weight: Regular
 Copyright: 
-Version: 001.000
+Version: 002.000
 ItalicAngle: 0
 UnderlinePosition: -100
 UnderlineWidth: 50
@@ -21,7 +21,12 @@ OS2Version: 0
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 1
 CreationTime: 1572444575
-ModificationTime: 1572589642
+ModificationTime: 1572589872
+PfmFamily: 17
+TTFWeight: 400
+TTFWidth: 5
+LineGap: 90
+VLineGap: 90
 OS2TypoAscent: 0
 OS2TypoAOffset: 1
 OS2TypoDescent: 0
@@ -35,10 +40,11 @@ HheadAscent: 0
 HheadAOffset: 1
 HheadDescent: 0
 HheadDOffset: 1
+OS2Vendor: 'PfEd'
 MarkAttachClasses: 1
 DEI: 91125
-LangName: 1041 "" "shoppers" "Regular" "" "+MLcw5zDDMNEw/DC6MNUwqTDzMMgA +MPMw5zCbMM8w/DCb" "" "" "" "" "" "" "" "" "" "" "" "" "" "" "+MLcw5zDDMNEw/DC6"
-LangName: 1033 "" "" "" "Shoppers font Version 001.000"
+LangName: 1033 "" "" "" "Shoppers font Version 002.000"
+LangName: 1041 "" "shoppers" "Regular" "" "+MLcw5zDDMNEw/DC6MNUwqTDzMMgA +MPMw5zCbMM8w/DCb" "" "" "" "" "" "" "" "" "" "" "" "" "" "" "+JjoA +MLcw5zDDMNEw/DC6"
 Encoding: UnicodeFull
 UnicodeInterp: none
 NameList: AGL For New Fonts
